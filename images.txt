@@ -1,8 +1,14 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
---platform=linux/amd64 mzz2017/v2raya
---platform=linux/amd64 minirplus/v2raya
-#支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
+xhofe/alist
+mzz2017/v2raya
+minirplus/v2raya
+xiaoyaliu/alist
+nondanee/unblockneteasemusic
+iyuucn/iyuuplus
+lovechen/embyserver
+linuxserver/qbittorrent
+linuxserver/jackett
+easychen/cookiecloud
+nastools/nas-tools
+linyuan0213/nas-tools
+tailscale/tailscale
