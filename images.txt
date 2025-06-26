@@ -5,7 +5,7 @@ minirplus/v2raya
 xiaoyaliu/alist
 nondanee/unblockneteasemusic
 iyuucn/iyuuplus
-lovechen/embyserver
+zishuo/embyserver
 linuxserver/qbittorrent
 linuxserver/jackett
 easychen/cookiecloud
